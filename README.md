@@ -4,4 +4,4 @@
 📱 I'm looking to collaborate with programmers in Instagram and Youtube
 🆘 I'm looking for help with UE4 or Unity
 🙋 Ask me about making game development
-👍 How to reach me: Instagram: _kiril_petkov_x
+👍 How to reach me: Instagram: https://www.instagram.com/_kiril_petkov_x/
